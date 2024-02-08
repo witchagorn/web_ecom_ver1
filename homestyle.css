@@ -1,6 +1,7 @@
 a {
     text-decoration: none;
 }
+/* Top text */
 .offer {
     text-align: center;
     padding: 0;
@@ -19,7 +20,7 @@ a {
 }
 #headbar {
     width: 100%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .navbar {
     color: black;
